@@ -1,0 +1,3 @@
+[submodule "example"]
+	path = example
+	url = https://github.com/auscaster/symple-webrtc-video-chat-demo.git
